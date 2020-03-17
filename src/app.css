@@ -1,0 +1,32 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    background: lightskyblue;
+}
+.rep{
+    width:350px;
+    background:lightgreen;
+    margin:20px;
+    padding:10px;
+}
+.rightpanel{
+    width:600px;
+    position: absolute;
+    right:0;
+    top:0;
+    height:100vh;
+    background-color:white;
+}
+
+.closebtn{
+    background:grey;
+    padding: 5px;
+    position: abbsolute;
+    right:10px;
+    top:10px;
+}
+label{
+    display: block;
+    font-size: 20px;
+    margin: 25px 10px;
+}
